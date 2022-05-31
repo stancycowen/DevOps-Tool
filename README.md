@@ -6,6 +6,6 @@ Jenkins Pipeline + GitLab + Docker
 SonarQube
 ## Log
 ELFK
-## monitor
+## Monitor
 k8s probe metrics + Prometheus + Grafana
 
